@@ -1,1 +1,1 @@
-# machine_learning_course
+# machine learning repo
